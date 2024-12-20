@@ -7,7 +7,8 @@
 
 body{
     height: 100vh;
-    background: linear-gradient(#f0b5b5, #5c0101);
+    background: linear-gradient(#e7f0b5, #5c4e01); /* Fundo Amarelo */
+    /* background: linear-gradient(#f0b5b5, #5c0101); - Fundo Vermelho*/
     /*background: linear-gradient(#a4f845, #249b40); - Código Original */
 }
 

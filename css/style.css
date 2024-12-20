@@ -7,9 +7,9 @@
 
 body{
     height: 100vh;
-    background: linear-gradient(#e7f0b5, #5c4e01); /* Fundo Amarelo */
-    /* background: linear-gradient(#f0b5b5, #5c0101); - Fundo Vermelho*/
+    background: linear-gradient(#b5cdf0, hsl(229, 98%, 18%)); /* Azul*/
     /*background: linear-gradient(#a4f845, #249b40); - Código Original */
+    /*background: linear-gradient(#f0b5b5, #5c0101); - Código fundo vermelho*/
 }
 
 header h1{
